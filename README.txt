@@ -1,1 +1,1 @@
-This is my practice repository for lighthouse labs. I am learning git and git-hub in this module.
+I am adding some more content to the file to check the difference after first commit.
